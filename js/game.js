@@ -20,7 +20,7 @@ var items = [
     ["Kinky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
     ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
     ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
-    ["Emil Stabilgrus", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
+    ["Emil", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
     ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/Martin.jpg"], //Alt med Disney
     ["Spock", ["UNAr5tzZxdk", "6nIvBI2_hSY"], "profil/daniel.jpg"], //Witch Doctor + Freak
     ["Styrmand", ["X-77txuiVXs"], "profil/Rask.jpg"], //Vamas a la pleya og andre remix af denne
