@@ -16,7 +16,7 @@ var items = [
     ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
     ["Gurli", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
     ["Trash", ["J294A-R1Cjk"], "profil/frederik.jpg"], // Dancing on my own
-    ["Kim",["eI-THZvxzdI"], "profil/hannah.jpg"], // Alt på Svensk
+    ["Kim",["eI-THZvxzdI"], "profil/Hannah.jpg"], // Alt på Svensk
     ["Kinky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
     ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
     ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
@@ -31,7 +31,7 @@ var items = [
     ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
     ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
     ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
-    ["Bundemir", ["Oktjs-HMNIc"], "profil/victor.jpg"],
+    ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
     ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
     ["Fuldemir", ["0NTDqqnH9Bk"], "profil/simon.jpg"],
     ["Lars", ["0NTDqqnH9Bk"], "profil/Oscar.jpg"],
