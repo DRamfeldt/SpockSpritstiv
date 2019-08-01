@@ -31,9 +31,9 @@ var items = [
     ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
     ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
     ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
-    ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
+    ["Bundemir", ["Oktjs-HMNIc"], "profil/victor.jpg"],
     ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
-    ["Fuldemir", ["0NTDqqnH9Bk"], "profil/Simon.jpg"],
+    ["Fuldemir", ["0NTDqqnH9Bk"], "profil/simon.jpg"],
     ["Lars", ["0NTDqqnH9Bk"], "profil/Oscar.jpg"],
     ["Såla’", ["0NTDqqnH9Bk"], "profil/Marie.jpg"],
     ["Darth", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/Rolf.jpg"]
