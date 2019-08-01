@@ -16,9 +16,9 @@ var items = [
     ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
     ["Gurli", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
     ["Trash", ["J294A-R1Cjk"], "profil/frederik.jpg"], // Dancing on my own
-    ["Kim",["eI-THZvxzdI"], "profil/Hannah.jpg"], // Alt på Svensk
+    ["Kim",["eI-THZvxzdI"], "profil/Hannah.png"], // Alt på Svensk
     ["Kinky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
-    ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.png"], // Highway to hell
+    ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
     ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
     ["Emil", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
     ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg"], //Alt med Disney
