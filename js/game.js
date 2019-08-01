@@ -11,29 +11,32 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Mathias", ["mDFBTdToRmw"], "profil/Mathias.jpg"], // Skibidi
-    ["J_n",["eI-THZvxzdI"], "profil/jan.jpg"], // Alt på Svensk
-    ["Oda", ["y6120QOlsfU", "TBElYMDycWk"], "profil/gluten.jpg"], // Darude Sandstorm + Hvor er du bro?
-    ["Harald", ["jvSpwN5aioo"], "profil/harald.jpg"], // Alt med Magtens korridorer
-    ["Frederik V", ["J294A-R1Cjk"], "profil/vejby.jpg"], // Dancing on my own
-    ["Christian Kjær", ["MFBPzmLjEm4"],"profil/christian.jpg"], // Alt med TopGunn 
-    ["Rune", ["Qa_2C15Uh5c"], "profil/rune.jpg"], // Kinky fætter 
-    ["Vindue", ["rY-DY6dUDuA"], "profil/vindue.jpg"], // Beautiful Morning
-    ["Frederik H", ["L_jWHffIx5E"], "profil/hejby.jpg"], // Smash mouth - All star
-    ["Ida", ["jqwyd749KGw"], "profil/ida.jpg"], //Vodkafjæs :(
-    ["Martin", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg"], //Alt med Disney
-    ["Daniel", ["UNAr5tzZxdk", "Jc2xfYuLWgE"], "profil/daniel.jpg"], //Witch Doctor + Freak
-    ["Lars", ["X-77txuiVXs"], "profil/lars.jpg"], //Vamas a la pleya og andre remix af denne
-    ["Simon", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/simon.jpg"], //X gonna give it ya
-    ["Jasmin", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/jasmin.jpg"], //Fireball + Oops I did it again
-    ["Christian Rømer", ["8oVndw4gRWQ"],"profil/romer.jpg"], //Ole Dakøje
-    ["Emma", ["YPV8LqSRSDg"], "profil/emma.jpg"], //Alt med Nik og Jay
-    ["Bao", ["wYuPn0CM8Ww"], "profil/bao.jpg"], //Elskovspony
-    ["Rydhof", ["e-ORhEE9VVg?t=6"], "profil/jakob.jpg"], // 
-    ["Geertinger", ["jKbR7u8J5PU"], "profil/geert.jpg"],
-    ["Piilmann", ["Oktjs-HMNIc"], "profil/pille.jpg"],
-    ["Frederiksen", ["0NTDqqnH9Bk"], "profil/frederik.jpg"],
-    ["Marcus", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/marcus.jpg"]
+    ["Skipper Skumsprøjt", ["mDFBTdToRmw"], "profil/andrias.jpg"], // Skibidi
+    ["Kristian Klipklap",["eI-THZvxzdI"], "profil/Daf.jpg"], // Alt på Svensk
+    ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
+    ["Gurli Gummistøvle", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
+    ["Trash-Ketchup", ["J294A-R1Cjk"], "profil/Frederik.jpg"], // Dancing on my own
+    ["Kim Carcrashian",["eI-THZvxzdI"], "profil/Hannah.jpg"], // Alt på Svensk
+    ["Kinky Winky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
+    ["Carsten Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
+    ["Wingardium LadOsMose", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
+    ["Emil Stabilgrus", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
+    ["Mysterie-Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/Martin.jpg"], //Alt med Disney
+    ["Daniel", ["UNAr5tzZxdk", "6nIvBI2_hSY"], "profil/daniel.jpg"], //Witch Doctor + Freak
+    ["Styrmand Overbord", ["X-77txuiVXs"], "profil/Rask.jpg"], //Vamas a la pleya og andre remix af denne
+    ["Franz frosenpind", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/Mathias.jpg"], //X gonna give it ya
+    ["Fabian Fodtøj", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/Grove.jpg"], //Fireball + Oops I did it again
+    ["Kunsjatter Bundevil", ["8oVndw4gRWQ"],"profil/Niels.jpg"], //Ole Dakøje
+    ["Mario-hee", ["YPV8LqSRSDg"], "profil/emma.jpg"], //Alt med Nik og Jay
+    ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
+    ["Søren Snerkers", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
+    ["Shagyy Loveless", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
+    ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
+    ["Sten Benløs", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
+    ["Fuldemir", ["0NTDqqnH9Bk"], "profil/Simon.jpg"],
+    ["Lars Barfoed", ["0NTDqqnH9Bk"], "profil/Oscar.jpg"],
+    ["Så la’ Gåda", ["0NTDqqnH9Bk"], "profil/Marie.jpg"],
+    ["Darth Baiter", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/Rolf.jpg"]
   ];
 
 var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
