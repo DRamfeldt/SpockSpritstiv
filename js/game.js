@@ -15,13 +15,13 @@ var items = [
     ["Kristian",["eI-THZvxzdI"], "profil/Daf.jpg"], // Alt på Svensk
     ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
     ["Gurli", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
-    ["Trash", ["J294A-R1Cjk"], "profil/Frederik.jpg"], // Dancing on my own
-    ["Kim",["eI-THZvxzdI"], "profil/Hannah.jpg"], // Alt på Svensk
+    ["Trash", ["J294A-R1Cjk"], "profil/frederik.jpg"], // Dancing on my own
+    ["Kim",["eI-THZvxzdI"], "profil/hannah.jpg"], // Alt på Svensk
     ["Kinky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
     ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
     ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
     ["Emil", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
-    ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/Martin.jpg"], //Alt med Disney
+    ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg"], //Alt med Disney
     ["Spock", ["UNAr5tzZxdk", "6nIvBI2_hSY"], "profil/daniel.jpg"], //Witch Doctor + Freak
     ["Styrmand", ["X-77txuiVXs"], "profil/Rask.jpg"], //Vamas a la pleya og andre remix af denne
     ["Franz", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/Mathias.jpg"], //X gonna give it ya
