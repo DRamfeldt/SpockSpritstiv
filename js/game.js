@@ -27,7 +27,7 @@ var items = [
     ["Franz", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/Mathias.jpg"], //X gonna give it ya
     ["Fabian", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/Grove.jpg"], //Fireball + Oops I did it again
     ["Kunsjatter", ["8oVndw4gRWQ"],"profil/Niels.jpg"], //Ole Dakøje
-    ["Mario-hee", ["YPV8LqSRSDg"], "profil/emma.jpg"], //Alt med Nik og Jay
+    ["Mario-hee", ["YPV8LqSRSDg"], "profil/andrias.jpg"], //Alt med Nik og Jay
     ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
     ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
     ["Shagyy", ["jKbR7u8J5PU"], "profil/andrias.jpg"],
