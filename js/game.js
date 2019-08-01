@@ -2,7 +2,7 @@ var game;
 var wheel;
 var canSpin;
 //var antalslices = prompt("Hvor mange personer er i? (2-100)","18")
-var hjulfarver = [0x990000, 0x1c8cff]
+var hjulfarver = [0x990000, 0xF6D04D]
 var hjulradius = 350
 var latestHits = [];
 
