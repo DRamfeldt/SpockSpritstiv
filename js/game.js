@@ -35,8 +35,8 @@ var items = [
     ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
     ["Fuldemir", ["0NTDqqnH9Bk"], "profil/Simon.jpg"],
     ["Lars", ["0NTDqqnH9Bk"], "profil/Oscar.jpg"],
-    ["Såla’Gåda", ["0NTDqqnH9Bk"], "profil/Marie.jpg"],
-    ["Darth Baiter", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/Rolf.jpg"]
+    ["Såla’", ["0NTDqqnH9Bk"], "profil/Marie.jpg"],
+    ["Darth", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/Rolf.jpg"]
   ];
 
 var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
