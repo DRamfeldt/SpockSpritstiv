@@ -11,7 +11,7 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Skipper", ["mDFBTdToRmw"], "profil/andrias.jpg"], // Skibidi
+    ["Skipper", ["YPV8LqSRSDg"],["CO0BXaawfZ0"], "profil/andrias.jpg"], // Skibidi
     ["Kristian",["eI-THZvxzdI"], "profil/Daf.jpg"], // Alt på Svensk
     ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
     ["Gurli", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
@@ -22,7 +22,7 @@ var items = [
     ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
     ["Emil", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
     ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg"], //Alt med Disney
-    ["Spock", ["UNAr5tzZxdk", "6nIvBI2_hSY"], "profil/daniel.jpg"], //Witch Doctor + Freak
+    ["Spock", ["6nIvBI2_hSY", "LWqyrGoUcDQ"], "profil/daniel.jpg"], //Witch Doctor + Freak
     ["Styrmand", ["X-77txuiVXs"], "profil/Rask.jpg"], //Vamas a la pleya og andre remix af denne
     ["Franz", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/Mathias.jpg"], //X gonna give it ya
     ["Fabian", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/Grove.jpg"], //Fireball + Oops I did it again
@@ -162,7 +162,7 @@ playGame.prototype = {
 
                 // Tilføj navn til hjulet
                 //if(items[i][2].length == 0){
-                  var text = game.add.text(sprite.x, sprite.y+20, items[i][0], { font: "20px Arial", fill: "#0ca5ff", align: "center", stroke: 'black', strokeThickness: 3 });
+                  var text = game.add.text(sprite.x, sprite.y+20, items[i][0], { font: "20px Arial", fill: "##ffffff", align: "center", stroke: 'black', strokeThickness: 3 });
                   text.anchor.setTo(0.5);
                   sprite.addChild(text);
                 //}
