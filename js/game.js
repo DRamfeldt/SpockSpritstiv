@@ -162,7 +162,7 @@ playGame.prototype = {
 
                 // Tilføj navn til hjulet
                 //if(items[i][2].length == 0){
-                  var text = game.add.text(sprite.x, sprite.y+20, items[i][0], { font: "20px Arial", fill: "##ffffff", align: "center", stroke: 'black', strokeThickness: 3 });
+                  var text = game.add.text(sprite.x, sprite.y+20, items[i][0], { font: "20px Arial", fill: "#ffffff", align: "center", stroke: 'black', strokeThickness: 3 });
                   text.anchor.setTo(0.5);
                   sprite.addChild(text);
                 //}
