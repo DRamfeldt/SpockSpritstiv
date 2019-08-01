@@ -30,7 +30,7 @@ var items = [
     ["Mario-hee", ["YPV8LqSRSDg"], "profil/emma.jpg"], //Alt med Nik og Jay
     ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
     ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
-    ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
+    ["Shagyy", ["jKbR7u8J5PU"], "profil/andrias.jpg"],
     ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
     ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
     ["Fuldemir", ["0NTDqqnH9Bk"], "profil/simon.jpg"],
