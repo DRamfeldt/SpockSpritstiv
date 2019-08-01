@@ -11,7 +11,7 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Skipper",["YPV8LqSRSDg","CO0BXaawfZ0"],"profil/andrias.jpg"],
+    ["Skipper",["YPV8LqSRSDg", "CO0BXaawfZ0"],"profil/andrias.jpg"],
     ["Kristian",["eI-THZvxzdI"], "profil/Daf.jpg"], // Alt på Svensk
     ["Havflækkeren", ["y6120QOlsfU", "TBElYMDycWk"], "profil/fie.jpg"], // Darude Sandstorm + Hvor er du bro?
     ["Gurli", ["jvSpwN5aioo"], "profil/Emilie.jpg"], // Alt med Magtens korridorer
@@ -30,7 +30,7 @@ var items = [
     ["Mario-hee", ["YPV8LqSRSDg"], "profil/andrias.jpg"], //Alt med Nik og Jay
     ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
     ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
-    ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian"],
+    ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
     ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
     ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
     ["Fuldemir", ["0NTDqqnH9Bk"], "profil/simon.jpg"],
