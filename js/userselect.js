@@ -20,7 +20,7 @@ var app = new function() {
     ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg", true], 
     ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg", true], 
     ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg", true], 
-    ["Shagyy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg", true],
+    ["Shaggy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg", true],
     ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg", true],
     ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg", true],
     ["Fuldemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg", true],
