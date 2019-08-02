@@ -18,7 +18,7 @@ var items = [
     ["Trash", ["C9M4rSoC4FY", "b7_aRsk5CJ4", "pRNMePD1v58"], "profil/frederik.jpg"], 
     ["Kim",["3ij_pUtJJrw", "DUT5rEU6pqM"], "profil/Hannah.png"], 
     ["Kinky", ["C9M4rSoC4FY"],"profil/Jonas.jpg"], 
-    ["Crocs", ["SMaVii7nnj4 "], "profil/Helene.jpg"], 
+    ["Crocs", ["SMaVii7nnj4"], "profil/Helene.jpg"], 
     ["Wingardium", ["Qa_2C15Uh5c"], "profil/Louise.jpg"], 
     ["Emil", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
     ["Morten", ["VDvr08sCPOc"], "profil/martin.jpg"], 
@@ -27,8 +27,8 @@ var items = [
     ["Franz", ["HMqgVXSvwGo","DEsqGOHo0nI",], "profil/Mathias.jpg"], 
     ["Fabian", ["kaQcfMFE9Fs", "fSDDn4l8JoQ"], "profil/Grove.jpg"], 
     ["Kunsjatter", ["y9ongoen_oQ", "uYeHPFR3f0", "LUlZ5n0cyak","qc_F4_zLn4k","CaW-zbBnpnE","LbenCTAwyco","LDU_Txk06tM"],"profil/Niels.jpg"], 
-    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg"], //Alt med Nik og Jay
-    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg"], //Elskovspony
+    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg"],
+    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg"],
     ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg"], // 
     ["Shagyy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg"],
     ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg"],

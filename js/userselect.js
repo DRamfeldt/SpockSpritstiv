@@ -8,7 +8,7 @@ var app = new function() {
     ["Trash", ["C9M4rSoC4FY", "b7_aRsk5CJ4", "pRNMePD1v58"], "profil/frederik.jpg", true], 
     ["Kim",["3ij_pUtJJrw", "DUT5rEU6pqM"], "profil/Hannah.png", true], 
     ["Kinky", ["C9M4rSoC4FY"],"profil/Jonas.jpg", true], 
-    ["Crocs", ["SMaVii7nnj4 "], "profil/Helene.jpg", true], 
+    ["Crocs", ["SMaVii7nnj4"], "profil/Helene.jpg", true], 
     ["Wingardium", ["Qa_2C15Uh5c"], "profil/Louise.jpg", true], 
     ["Emil", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg", true], 
     ["Morten", ["VDvr08sCPOc"], "profil/martin.jpg", true], 
@@ -17,9 +17,9 @@ var app = new function() {
     ["Franz", ["HMqgVXSvwGo","DEsqGOHo0nI",], "profil/Mathias.jpg", true], 
     ["Fabian", ["kaQcfMFE9Fs", "fSDDn4l8JoQ"], "profil/Grove.jpg", true], 
     ["Kunsjatter", ["y9ongoen_oQ", "uYeHPFR3f0", "LUlZ5n0cyak","qc_F4_zLn4k","CaW-zbBnpnE","LbenCTAwyco","LDU_Txk06tM"],"profil/Niels.jpg", true], 
-    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg", true], //Alt med Nik og Jay
-    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg", true], //Elskovspony
-    ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg", true], // 
+    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg", true], 
+    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg", true], 
+    ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg", true], 
     ["Shagyy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg", true],
     ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg", true],
     ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg", true],
