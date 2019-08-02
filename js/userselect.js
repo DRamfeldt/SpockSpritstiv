@@ -22,9 +22,9 @@ var app = new function() {
     ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg", true], // 
     ["Shagyy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg", true],
     ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg", true],
-    ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg"],
+    ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg", true],
     ["Fuldemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg", true],
-    ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg"],
+    ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg", true],
     ["Såla’", ["unfzfe8f9NI","KoyNlVQbUPc","XEjLoHdbVeE"], "profil/Marie.jpg", true],
     ["Darth", ["4fndeDfaWCg", "POq2AznJO1Q", "aBt8fN7mJNg", "5rmKy8H62BU"], "profil/Rolf.jpg", true]
     ];
