@@ -11,32 +11,32 @@ var latestHits = [];
 // ["Navn", ["youtubeID1", "YoutubeID2", ..], "facebookID ELLER img link"] 100 x 100 size
 //https://www.youtube.com/watch?v=
 var items = [
-    ["Skipper",["YPV8LqSRSDg", l "CO0BXaawfZ0", "trS2nrkN0_k"],"profil/andrias.jpg"],
+    ["Skipper",["YPV8LqSRSDg", l "CO0BXaawfZ0","trS2nrkN0_k"],"profil/andrias.jpg"],
     ["Kristian",["6I-BTlgcVqU"], "profil/Daf.jpg"], 
     ["Havflækkeren", ["ytWz0qVvBZ0", "qkbs33sxHLA"], "profil/fie.jpg"], 
     ["Gurli", ["Qkuu0Lwb5EM"], "profil/Emilie.jpg"], 
     ["Trash", ["C9M4rSoC4FY", "b7_aRsk5CJ4", "pRNMePD1v58"], "profil/frederik.jpg"], 
-    ["Kim",["3ij_pUtJJrw",], "profil/Hannah.png"], // Alt på Svensk
-    ["Kinky", ["MFBPzmLjEm4"],"profil/Jonas.jpg"], // Alt med TopGunn 
-    ["Crocs", ["Qa_2C15Uh5c"], "profil/Helene.jpg"], // Highway to hell
-    ["Wingardium", ["L_jWHffIx5E"], "profil/Louise.jpg"], // Smash mouth - All star
-    ["Emil", ["jqwyd749KGw"], "profil/Tox.jpg"], //Vodkafjæs :(
-    ["Morten", ["wSzcdRz6aso", "moSFlvxnbgk"], "profil/martin.jpg"], //Alt med Disney
-    ["Spock", ["6nIvBI2_hSY", "LWqyrGoUcDQ"], "profil/daniel.jpg"], //Witch Doctor + Freak
-    ["Styrmand", ["X-77txuiVXs"], "profil/Rask.jpg"], //Vamas a la pleya og andre remix af denne
-    ["Franz", ["fGx6K90TmCI","Fegs-XVKgnM"], "profil/Mathias.jpg"], //X gonna give it ya
-    ["Fabian", ["CduA0TULnow", "HMqgVXSvwGo"], "profil/Grove.jpg"], //Fireball + Oops I did it again
-    ["Kunsjatter", ["8oVndw4gRWQ"],"profil/Niels.jpg"], //Ole Dakøje
-    ["Mario-hee", ["YPV8LqSRSDg"], "profil/andrias.jpg"], //Alt med Nik og Jay
-    ["Mario-hoo", ["wYuPn0CM8Ww"], "profil/Rose.jpg"], //Elskovspony
-    ["Søren", ["e-ORhEE9VVg?t=6"], "profil/Jens.jpg"], // 
-    ["Shagyy", ["jKbR7u8J5PU"], "profil/Sebastian.jpg"],
-    ["Bundemir", ["Oktjs-HMNIc"], "profil/Victor.jpg"],
-    ["Sten", ["0NTDqqnH9Bk"], "profil/Mie.jpg"],
-    ["Fuldemir", ["0NTDqqnH9Bk"], "profil/simon.jpg"],
-    ["Lars", ["0NTDqqnH9Bk"], "profil/Oscar.jpg"],
-    ["Såla’", ["0NTDqqnH9Bk"], "profil/Marie.jpg"],
-    ["Darth", ["VLnWf1sQkjY", "lQlIhraqL7o", "X0DeIqJm4vM", "gAYL5H46QnQ"], "profil/Rolf.jpg"]
+    ["Kim",["3ij_pUtJJrw", "DUT5rEU6pqM"], "profil/Hannah.png"], 
+    ["Kinky", ["C9M4rSoC4FY"],"profil/Jonas.jpg"], 
+    ["Crocs", ["SMaVii7nnj4 "], "profil/Helene.jpg"], 
+    ["Wingardium", ["Qa_2C15Uh5c"], "profil/Louise.jpg"], 
+    ["Emil", ["uCRT8IItGpw", "n09xzMb1tdg", "otCpCn0l4Wo", "QFtnV6pMqvA", "bnqBLeg4Jbo"], "profil/Tox.jpg"], 
+    ["Morten", ["VDvr08sCPOc"], "profil/martin.jpg"], 
+    ["Spock", ["6nIvBI2_hSY", "LWqyrGoUcDQ"], "profil/daniel.jpg"], 
+    ["Styrmand", ["dLhFDYQHDQY","n09xzMb1tdg","Wmc8bQoL-J0"], "profil/Rask.jpg"], 
+    ["Franz", ["HMqgVXSvwGo","DEsqGOHo0nI",], "profil/Mathias.jpg"], 
+    ["Fabian", ["kaQcfMFE9Fs", "fSDDn4l8JoQ"], "profil/Grove.jpg"], 
+    ["Kunsjatter", ["y9ongoen_oQ", "uYeHPFR3f0", "LUlZ5n0cyak","qc_F4_zLn4k","CaW-zbBnpnE","LbenCTAwyco","LDU_Txk06tM"],"profil/Niels.jpg"], 
+    ["Mario-hee", ["y1nM4OKvoXw","2KBFD0aoZy8"], "profil/emma.jpg"], //Alt med Nik og Jay
+    ["Mario-hoo", ["1w7OgIMMRc4","o1tj2zJ2Wvg","Rbm6GXllBiw"], "profil/Rose.jpg"], //Elskovspony
+    ["Søren", ["elVLeQX6IUU"], "profil/Jens.jpg"], // 
+    ["Shagyy", ["ULrxa1KVzZU","mdqU6Erw3kk","nQV7DKBqGdk","vMfObaxYBV8"], "profil/Sebastian.jpg"],
+    ["Bundemir", ["kJQP7kiw5Fk","KlyXNRrsk4A","tAp9BKosZXs","F57P9C4SAW4"], "profil/Victor.jpg"],
+    ["Sten", ["hwwg8st_5W4"], "profil/Mie.jpg"],
+    ["Fuldemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg"],
+    ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg"],
+    ["Såla’", ["unfzfe8f9NI","KoyNlVQbUPc","XEjLoHdbVeE"], "profil/Marie.jpg"],
+    ["Darth", ["4fndeDfaWCg", "POq2AznJO1Q", "aBt8fN7mJNg", "5rmKy8H62BU"], "profil/Rolf.jpg"]
   ];
 
 var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
