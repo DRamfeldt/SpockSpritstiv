@@ -36,11 +36,10 @@ var items = [
     ["Fuldemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg"],
     ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg"],
     ["Såla’", ["unfzfe8f9NI","KoyNlVQbUPc","XEjLoHdbVeE"], "profil/Marie.jpg"],
-    ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"],
     ["Darth", ["4fndeDfaWCg", "POq2AznJO1Q", "aBt8fN7mJNg", "5rmKy8H62BU"], "profil/Rolf.jpg"]
   ];
 
-var extrafield = ["Alle", ["DsisHmtfnGI"], "FACEBOOKID"];
+var extrafield = ["Alle", ["VEVDcuqW01Y", "AgFeZr5ptV8", "0NTDqqnH9Bk","04854XqcfCY"], "profil/alle.jpg"];
 var antalslices = items.length
 // KORREKT YOUTUBE URL Med autoplay og start ved 0:30 sek mark
 // https://www.youtube.com/embed/2YllipGl2Is?start=30&autoplay=1
