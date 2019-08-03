@@ -93,8 +93,8 @@ playGame.prototype = {
 
           // preloading graphic assets
           game.load.crossOrigin = "Anonymous";
-          game.load.image("wheel", "img/lykkehjulet.png");
-          game.load.image("kappa", "img/kappa.png");
+          //game.load.image("wheel", "img/lykkehjulet.png");
+          //game.load.image("kappa", "img/kappa.png");
 		      game.load.image("pin", "img/pin.png");
           if((items.length % 2) == 1){
               items.push(extrafield);
