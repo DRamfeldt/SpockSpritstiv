@@ -36,7 +36,7 @@ var items = [
     ["Bundemir", ["eA9u-MF_H6Y","VrAu6ve8F6Y","oxWfTs1psoM"], "profil/simon.jpg"],
     ["Lars", ["0HENeKIztcQ"], "profil/Oscar.jpg"],
     ["Såla’", ["unfzfe8f9NI","KoyNlVQbUPc","XEjLoHdbVeE"], "profil/Marie.jpg"],
-    ["Ænder’", ["y_y2Bn2ndU"½], "profil/ænder.jpg"],
+    ["Ænder’", ["y_y2Bn2ndU"], "profil/ænder.jpg"],
     ["Darth", ["4fndeDfaWCg", "POq2AznJO1Q", "aBt8fN7mJNg", "5rmKy8H62BU"], "profil/Rolf.jpg"]
   ];
 
